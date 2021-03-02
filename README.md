@@ -23,5 +23,6 @@ Plotly
 - Adapted the Gauge Chart for values ranging from 0 through 9,
 - Updated the chart whenever a new sample is selected,
 
+![image](https://user-images.githubusercontent.com/63757160/109660693-c512fc80-7b2e-11eb-8664-6d401f9c55db.png)
 
 
